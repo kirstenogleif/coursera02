@@ -53,6 +53,11 @@ h1 {
   font-size: 150%;
   }
 
+#nav-list{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  }
+
 #nav-list-item{
   background-color: white;
   text-align: center;
